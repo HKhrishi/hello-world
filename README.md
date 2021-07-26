@@ -1,10 +1,11 @@
 #include<stdio.h>
 #include<conio.h>
 
-main()
+void main()
 {
 clrscr();
 printf(••hello world••);
 getch();
 
 }
+
